@@ -8,7 +8,6 @@
    $timezone  = 1;
    echo gmdate("j/m/Y H:i:s", time() + 3600*($timezone));
    ?>
- </br>
  </center>
  </body>
 </html>
